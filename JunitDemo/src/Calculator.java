@@ -18,4 +18,9 @@ public class Calculator {
 		 return a/b;
 		 
 	 }
+	 public static void main(String[] args) {
+		 
+		 Calculator cal=new Calculator();
+		 double c=cal.add(5, 10);
+	 }
 }
