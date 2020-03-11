@@ -22,5 +22,6 @@ public class Calculator {
 		 
 		 Calculator cal=new Calculator();
 		 double c=cal.add(5, 10);
+		 System.out.println(c);
 	 }
 }
